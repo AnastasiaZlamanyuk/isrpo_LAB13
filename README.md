@@ -1,6 +1,6 @@
 ## Лабораторная работа №12-13: Введение в Bootstrap
 
-**Студент**: Телятникова Е.П., Зламанюк А.А.
+**Студент**: Зламанюк А.А.
 
 **Группа**: ИСП-231
 
@@ -48,6 +48,6 @@
 ### Ссылки:
 
 * [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/)
-* [GitHub Repository](https://github.com/whypikmi/isrpo_LAB13.git)
+* https://github.com/whypikmi/isrpo_LAB13.git)](https://github.com/AnastasiaZlamanyuk/isrpo_LAB13.git
 ---
-© 2026 Телятникова Е.П., Зламанюк А.А.. Лабораторная работа по веб-разработке.
+© 2026 Зламанюк А.А.. Лабораторная работа по веб-разработке.
